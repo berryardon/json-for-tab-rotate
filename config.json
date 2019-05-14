@@ -5,7 +5,7 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://mediaportal.cbs.nl/portal/dashboards/55",
+      "url": "https://mediaportal.cbs.nl/portal/dashboards/51",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
