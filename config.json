@@ -10,12 +10,12 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://mediaportal.cbs.nl/portal/dashboards/51",
+      "url": "https://in.coosto.com/d/4eaa13a32051bf5f7a2cde01",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://in.coosto.com/d/4eaa13a32051bf5f7a2cde01",
+      "url": "https://mediaportal.cbs.nl/portal/dashboards/51",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
