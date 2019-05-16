@@ -15,16 +15,6 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://mediaportal.cbs.nl/portal/dashboards/51",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://in.coosto.com/d/656d6de0679737475a455ac6",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
       "url": "https://analytics.google.com/analytics/web/#/realtime/rt-overview/a4397804w8472644p12917290/",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
