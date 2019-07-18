@@ -18,11 +18,6 @@
       "url": "https://analytics.google.com/analytics/web/?authuser=1#/dashboard/U2yGJaa3S0SuJwEiI1i3xQ/a4397804w8472644p12917290/",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://studio.youtube.com/channel/UCl9j-odTJHo-7R5jH2rIiwQ/analytics/tab-overview/period-minus_1_month/explore?entityType=CHANNEL&entityId=UCl9j-odTJHo-7R5jH2rIiwQ&timePeriod=minus_1_month&exploreType=LATEST_ACTIVITY",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 15
     }
   ]
 }
