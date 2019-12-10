@@ -18,6 +18,11 @@
       "url": "https://analytics.google.com/analytics/web/?authuser=1#/dashboard/U2yGJaa3S0SuJwEiI1i3xQ/a4397804w8472644p12917290/",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://analytics.google.com/analytics/web/#/dashboard/DiMppC8dTuqlmYlcpMAmjQ/a79515836w126624200p132343500/",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 15
     }
   ]
 }
